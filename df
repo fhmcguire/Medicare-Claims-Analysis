@@ -1,0 +1,23 @@
+[33mcommit 58f791daa61c9b9e809fc3dd3afeb4a94026b040[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: F. Hunter McGuire <98276768+fhmcguire@users.noreply.github.com>
+Date:   Fri May 30 01:04:18 2025 -0600
+
+    Track large CSV files with Git LFS
+
+[33mcommit 819c38403f71df0c43bbe5276b1a7ff32169a89b[m
+Author: F. Hunter McGuire <98276768+fhmcguire@users.noreply.github.com>
+Date:   Fri May 30 00:57:00 2025 -0600
+
+    add 2008_to_2010_Carrier_Claims_Sample_1A.csv
+
+[33mcommit dd6bc57145a15a67a3465c76afbd1e393ba59db8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: F. Hunter McGuire <98276768+fhmcguire@users.noreply.github.com>
+Date:   Thu May 29 19:54:49 2025 -0600
+
+    Create 01_data_management.py
+
+[33mcommit 132185bac627b53f788edf0e186543b63bbafdd4[m
+Author: F. Hunter McGuire <98276768+fhmcguire@users.noreply.github.com>
+Date:   Thu May 29 19:50:56 2025 -0600
+
+    Initial commit
